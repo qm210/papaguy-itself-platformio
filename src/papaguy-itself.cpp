@@ -161,8 +161,8 @@ inline float constrained_map(int x, int old_lower, int old_upper, int new_lower,
 #define LIMIT_HEAD_ROTATE_LEFT 1023
 #define LIMIT_WINGS_SPREADED 450
 #define LIMIT_WINGS_RETRACTED 800
-#define LIMIT_BEAK_OPEN 270
-#define LIMIT_BEAK_CLOSED 1023
+#define LIMIT_BEAK_OPEN 100
+#define LIMIT_BEAK_CLOSED 900
 #define LIMIT_BODY_TILT_STRAIGHT 750
 #define LIMIT_BODY_TILT_BENT 500
 #define LIMIT_HEAD_TILT_LEFT 200
