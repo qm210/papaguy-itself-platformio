@@ -1,4 +1,4 @@
-// comment out for arduino
+// comment out for Arduino
 // #define ESP32
 
 // comment out to reduce Serial communication
